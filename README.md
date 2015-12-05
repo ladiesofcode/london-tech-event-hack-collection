@@ -1,12 +1,12 @@
 london-tech-event-hack-collection
 =================================
 
-As I moved to the uk, I tried to find the best places to grab information about various stuff. Now presenting a little collection of sources for the best ways to find hackathons, tech events or jobs. Its all about getting involved! 
-Note that there might be snippets of cultural and artistic stuff as well! The order is randomly.
+As I moved to the uk, I tried to find the best places to grab information about various stuff. Now presenting a little collection of sources for the best ways to find hackathons, tech events or jobs. It's all about getting involved! 
+Note that there might be snippets of cultural and artistic stuff as well! The order is random.
 
 PLEASE CONTRIBUTE or pay me [a beer](https://www.gittip.com/monbro/)? :-)
 
-Eventslists
+Event Lists
 ------------
 * http://events.ldn.io/
 * http://thefetch.com
@@ -22,13 +22,12 @@ Eventslists
 * http://level39.co/events
 * http://techcrunch.com/events/
 * http://campuslondon.com/events/
-* http://centreforentrepreneurs.org/events
 * http://roundabout.io/
 
 Single Events
 ------------
 * http://sci-fi-london.com/festival
-* http://londonopenhouse.org/
+* http://www.openhouselondon.org.uk/
 * http://schoolforcreativestartups.com/
 * http://wiredevent.co.uk/book-now/
 * http://frontendlondon.co.uk/
@@ -70,7 +69,7 @@ Hackathon
 * http://campus-labs.com/en/
 * http://f6s.com/startupboard
 
-Jobboards
+Job Boards
 ------------
 * http://somewherehq.com/discover/city/london
 * http://3-beards.com/jobs/
